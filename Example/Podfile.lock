@@ -1,0 +1,33 @@
+PODS:
+  - Ads-CN (3.7.0.6):
+    - Ads-CN/BUAdSDK (= 3.7.0.6)
+  - Ads-CN/BUAdSDK (3.7.0.6):
+    - Ads-CN/BUFoundation
+    - Ads-CN/Domestic
+  - Ads-CN/BUFoundation (3.7.0.6)
+  - Ads-CN/Domestic (3.7.0.6)
+  - Pomelo (0.1.1):
+    - Ads-CN
+    - ReactiveObjC
+  - ReactiveObjC (3.1.1)
+
+DEPENDENCIES:
+  - Pomelo (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Ads-CN
+    - ReactiveObjC
+
+EXTERNAL SOURCES:
+  Pomelo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Ads-CN: fe2385fbadc24bed15b8072ad064a12cc86f67cf
+  Pomelo: 0039b991e6e9c840e5188a71ca9606d048f716be
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+
+PODFILE CHECKSUM: 5cc5daccd1be841694bfcfa4e455252a0cdb18bf
+
+COCOAPODS: 1.10.1
